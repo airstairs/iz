@@ -25,4 +25,8 @@ see gif
 
 # Usage Instructions, once configured run 9 to set flag, and once configured run dn to run device name animation  
 
-<3 
+<3      
+
+
+
+pro tip... for flag off control-b + : type kill-server plus enter but this will kill all tmux servers, see kill-session
