@@ -30,3 +30,16 @@ see gif
 
 
 pro tip... for flag off control-b + : type kill-server plus enter but this will kill all tmux servers, see kill-session
+
+
+
+
+
+<hr>    
+
+
+
+<img src="recording.gif" style="width:666px;">  
+
+
+
